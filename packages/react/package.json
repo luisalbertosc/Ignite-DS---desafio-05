@@ -26,7 +26,10 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.0",
     "@radix-ui/react-checkbox": "^1.0.0",
+    "@radix-ui/react-toast": "^1.1.2",
+    "@radix-ui/react-tooltip": "^1.0.2",
     "@stitches/react": "^1.2.8",
+    "date-fns": "^2.29.3",
     "phosphor-react": "^1.4.1"
   }
 }
