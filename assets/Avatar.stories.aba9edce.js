@@ -1,0 +1,2 @@
+import{A as t}from"./index.303f3ce6.js";import"./index.aa5516ef.js";import"./iframe.0f98141a.js";import"./index.44323ebc.js";import"./jsx-runtime.38a9ca24.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/luisalbertosc.png",alt:"Luis Correia"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.aba9edce.js.map
